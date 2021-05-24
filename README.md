@@ -1,7 +1,7 @@
 # Updated-Portfolio.github.io
 # Add new features into the portfolio website 
 [Launch Updated Portfolio Page]
-*  [My Site](https://moesaidi76.github.io/Updated-Portfolio-Page/.) .
+*  [My Site](https://moesaidi76.github.io/saidi-personal-webstite-/) .
 
 ## Requirements
 
