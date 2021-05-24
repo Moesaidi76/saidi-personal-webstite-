@@ -3,18 +3,6 @@
 [Launch Updated Portfolio Page]
 *  [My Site](https://moesaidi76.github.io/saidi-personal-webstite-/) .
 
-## Requirements
-
-* Updated portfolio featuring project 1 and two exemplary homework assignments. 
-
-* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
-
-* Updated resume
-
-* Updated LinkedIn profile
-
-
-
 
 ## Instructions
 
@@ -26,8 +14,6 @@
 ### Updated GitHub Profile 
 
 * Adding the following to our Portfolio: 
-
-    * Profile picture
 
     * Bio
 
